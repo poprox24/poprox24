@@ -32,7 +32,7 @@ Depends on the project, but usually:
 - Web stack (when forced)
 - Game modding workflows
 
-## philosophy
+## Philosophy
 
 - Code should be *useful*, not pretty
 - Most projects don’t need to be finished to be valuable

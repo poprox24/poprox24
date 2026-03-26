@@ -11,7 +11,7 @@ Mods, tools, weird experiments, whatever seems interesting at the time
 - Prefer fast iteration over perfection
 - If it works, it ships
 
-## Stuff i’ve done
+## Stuff I’ve done
 
 ### 🧩 Mods
 - **Clamb Flying Mod**  

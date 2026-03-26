@@ -1,6 +1,6 @@
 # poprox
 
-> I make stuff when i feel like it
+> I make stuff when I feel like it
 
 ## About
 
@@ -22,13 +22,13 @@ Mods, tools, weird experiments, whatever seems interesting at the time
 
 ### 🧪 Random projects
 - Small utilities, experiments, and half-finished ideas  
-- Some things exist purely because i wanted them to
+- Some things exist purely because I wanted them to
 
 ## Tech
 
 Depends on the project, but usually:
-- C++ / low-level stuff
 - Python
+- C++
 - Web stack (when forced)
 - Game modding workflows
 

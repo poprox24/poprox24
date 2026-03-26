@@ -2,7 +2,7 @@
 
 > I make stuff when i feel like it
 
-## about
+## About
 
 I’m a dev who mostly builds random things that solve *my* problems  
 Mods, tools, weird experiments, whatever seems interesting at the time

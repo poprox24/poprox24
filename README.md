@@ -30,7 +30,7 @@ Depends on the project, but usually:
 - C++ / low-level stuff
 - Python
 - Web stack (when forced)
-- Reverse engineering / game modding workflows
+- Game modding workflows
 
 ## philosophy
 

@@ -1,16 +1,43 @@
-## Hi there 👋
+# poprox
 
-<!--
-**poprox24/poprox24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I make stuff when i feel like it
 
-Here are some ideas to get you started:
+## about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a dev who mostly builds random things that solve *my* problems  
+Mods, tools, weird experiments, whatever seems interesting at the time
+
+- Not a fan of overengineering
+- Prefer fast iteration over perfection
+- If it works, it ships
+
+## Stuff i’ve done
+
+### 🧩 Mods
+- **Clamb Flying Mod**  
+  Added flight mechanics mainly for movement practice / speedrun experimentation
+
+### 🛠 Contributions
+- Contributed fixes to **VRCX** (UI / theme related stuff)
+
+### 🧪 Random projects
+- Small utilities, experiments, and half-finished ideas  
+- Some things exist purely because i wanted them to
+
+## Tech
+
+Depends on the project, but usually:
+- C++ / low-level stuff
+- Python
+- Web stack (when forced)
+- Reverse engineering / game modding workflows
+
+## philosophy
+
+- Code should be *useful*, not pretty
+- Most projects don’t need to be finished to be valuable
+- Learning > polishing
+
+## Contact
+
+idk, you’ll find me somewhere

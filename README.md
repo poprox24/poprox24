@@ -7,7 +7,7 @@
 I’m a dev who mostly builds random things that solve *my* problems  
 Mods, tools, weird experiments, whatever seems interesting at the time
 
-- Not a fan of overengineering
+- A fan of overengineering
 - Prefer fast iteration over perfection
 - If it works, it ships
 

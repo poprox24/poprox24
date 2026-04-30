@@ -21,6 +21,10 @@ Mods, tools, weird experiments, whatever seems interesting at the time
 - Contributed fixes to **VRCX** (UI / theme related stuff)
 
 ### 🧪 Random projects
+- **Shocker Link CPP**  
+  Creates a Serial/API link between VRChat and an OpenShock/PiShock device
+<br/>
+
 - Small utilities, experiments, and half-finished ideas  
 - Some things exist purely because I wanted them to
 

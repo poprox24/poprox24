@@ -13,14 +13,14 @@ Mods, tools, weird experiments, whatever seems interesting at the time
 
 ## Stuff I’ve done
 
-### 🧩 Mods
+### Mods
 - **Clamb Flying Mod**  
   Added flight mechanics mainly for movement practice / speedrun experimentation
 
-### 🛠 Contributions
+### Contributions
 - Contributed fixes to **VRCX** (UI / theme related stuff)
 
-### 🧪 Random projects
+### Random projects
 - **Shocker Link CPP**  
   Creates a Serial/API link between VRChat and an OpenShock/PiShock device
 <br/>
